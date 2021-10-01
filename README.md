@@ -4,9 +4,13 @@
   1. Dividir el codigo en apartados , asignatura y alumnos.
 </primerPaso>
 <SegundoPaso>
+ 
+  
   2.Especificar datos de los alumnos que se recogen y organizar estructuradamente la informacion.
 </SegundoPaso>
 <trecerPaso>
+ 
+  
   3. Copiar informacion necesitada
   </tercerPaso>
 
